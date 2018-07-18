@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sreda.LoginEmpty" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-18T19:02:40" hostname="DESKTOP-D6LP5OR" time="5.381">
+  <properties/>
+  <testcase name="VerifyElementsPresent" classname="Sreda.LoginEmpty" time="5.381"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 21249
+Only local connections are allowed.
+Jul 18, 2018 9:02:40 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sreda.RedirectSignUp" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-18T19:04:15" hostname="DESKTOP-D6LP5OR" time="5.814">
+  <properties/>
+  <testcase name="VerifyElementsPresent" classname="Sreda.RedirectSignUp" time="5.814"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 46047
+Only local connections are allowed.
+Jul 18, 2018 9:04:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
